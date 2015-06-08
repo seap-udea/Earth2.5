@@ -1,3 +1,4 @@
+
 #LIBDIR=/Users/jzuluaga/usr
 LIBDIR=/usr/local
 LIBGSL=$(LIBDIR)
